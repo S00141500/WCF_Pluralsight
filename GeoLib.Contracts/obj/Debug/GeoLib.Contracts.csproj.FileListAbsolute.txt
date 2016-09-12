@@ -1,0 +1,10 @@
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.dll.config
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.dll
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.pdb
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\bin\Debug\EntityFramework.dll
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\bin\Debug\EntityFramework.xml
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.dll
+c:\users\mark\documents\visual studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\GeoLib.Contracts\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csprojResolveAssemblyReference.cache
